@@ -13,7 +13,7 @@ I tend to only keep apps on my phone that I consider to be "good". If an app cau
 |---|
 |![IGN Screenshot](photos/IGN.jpg)| 
 
-One app that I have had some significant trouble with is the IGN app (shown below). This application has been updated quite regularily since I began using it, which at least shows a commitment to providing a better user experience. However, overall I would consider this app "poor" in terms of interface.
+One app that I have had some significant trouble with is the IGN app (shown above). This application has been updated quite regularily since I began using it, which at least shows a commitment to providing a better user experience. However, overall I would consider this app "poor" in terms of interface.
 
 One thing that I find frustrating with the apps interface is their inconsistent use of laypout/interaction methods. Switching between vertically stacked articles, horizontal scrolling sections, and then thumbnails laid out in a grid format make the experience harder then it needs to be. Aditionally the navigation menu at the top is not presented in a way that you can browse the options without horizontal scrolling. Personally I beleive that you should stick to one method of interaction in your design (at least on a per-page basis) to provide a consistent experience. I find horizontal scrolling to be less attractive, and a hinderence to the apps usability overall.
 
@@ -25,7 +25,7 @@ Looking past the negatives stated above, there are still some positive aspects o
 
 YouTube is an app that I would consider "good". I use YouTube regularily, it is how I get my news, and updates on my hobbies and interests. It has come a long way since the original app on the iPhone all those years ago, though it is not without its faults.
 
-Being one of the first apps developed for smartphones, YouTube has had the time needed to perfect its interface. It provides a consistent layout (disregarding the "stories" section that EVERY app seems to insist on having these days) which makes the user experience super easy and straightforward. The videos are laid out in a vertical scrolling format, allowing you to browse with ease. It even allows you to minimize your video to continue scrolling as you watch. The explore tab (shown below) gives you a well presented navigation menu to select from different genres and shows you trending videos. Additionally it gives you easy ways to produce content for your channel, and stream to other devices. 
+Being one of the first apps developed for smartphones, YouTube has had the time needed to perfect its interface. It provides a consistent layout (disregarding the "stories" section that EVERY app seems to insist on having these days) which makes the user experience super easy and straightforward. The videos are laid out in a vertical scrolling format, allowing you to browse with ease. It even allows you to minimize your video to continue scrolling as you watch. The explore tab (shown above) gives you a well presented navigation menu to select from different genres and shows you trending videos. Additionally it gives you easy ways to produce content for your channel, and stream to other devices. 
 
 Depending on your device and the amount of subscriptions you have, the interface can become a bit cluttered, but overall I would rate the YouTube app as "good".
 
