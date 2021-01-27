@@ -1,10 +1,13 @@
 # DGL114 - Process Portfolio
-## **Week 1 Activities**
-### **Actitivity 0101:**
+## Author: Reeve Jarvis 
+---
+### **Week 1 Activities**
+---
+#### **Actitivity 0101:**
 
 I tend to only keep apps on my phone that I consider to be "good". If an app causes me more frustration then I deem acceptable I usually will delete it shortly after downloading. Saying that, there are always negative aspects to every app.
 
-#### **Poor App: IGN** 
+**Poor App: IGN** 
 
 One app that I have had some significant trouble with is the IGN app (shown below). This application has been updated quite regularily since I began using it, which at least shows a commitment to providing a better user experience. However, overall I would consider this app "poor" in terms of interface.
 
@@ -14,7 +17,7 @@ Looking past the negatives stated above, there are still some positive aspects o
 
 ![IGN Screenshot](photos/IGN.jpg) 
 
-#### **Good App: YouTube**
+**Good App: YouTube**
 
 YouTube is an app that I would consider "good". I use YouTube regularily, it is how I get my news, and updates on my hobbies and interests. It has come a long way since the original app on the iPhone all those years ago, though it is not without its faults.
 
@@ -23,6 +26,8 @@ Being one of the first apps developed for smartphones, YouTube has had the time 
 Depending on your device and the amount of subscriptions you have, the interface can become a bit cluttered, but overall I would rate the YouTube app as "good".
 
 ![YouTube Screenshot](photos/Youtube.jpg)
+
+---
 
 ### **Activity 0102:**
 
@@ -37,3 +42,29 @@ In a world filled with smartphones/smart devices we have grown to expect a certa
 * Auto fill data needed for forms etc.
 * Ensuring buttons and actions operate as intended (dead links suck)
 
+---
+### **Week 2 Activities**
+---
+PLACEHOLDER 
+
+Ashley,
+
+Due to some health issues I have been unable to study for much of this week. As a result, I am working hard to get caught up. However, I was unable to complete my weekly process portfolio activities by the designated due date/time. I meant to contact you sooner to request that I complete them in the next day or so, however my focus was elsewhere on greater concerns.
+
+I realize that they are important to my learning process, and I intend to complete these as soon as I am able (hopefully by the day following the due date). 
+
+I hope that you will take this into consideration I will not suffer a penalty as it is not my intention to push these off till the last minute.
+
+Life gets in the way sometimes.
+
+Sincerely, 
+
+Reeve Jarvis
+
+---
+
+#### **Activity 0202**
+
+---
+
+#### **Activity 0203**
