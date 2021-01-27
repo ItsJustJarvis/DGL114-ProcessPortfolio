@@ -45,25 +45,49 @@ In a world filled with smartphones/smart devices we have grown to expect a certa
 ---
 ### **Week 2 Activities**
 ---
-PLACEHOLDER 
-
-Ashley,
-
-Due to some health issues I have been unable to study for much of this week. As a result, I am working hard to get caught up. However, I was unable to complete my weekly process portfolio activities by the designated due date/time. I meant to contact you sooner to request that I complete them in the next day or so, however my focus was elsewhere on greater concerns.
-
-I realize that they are important to my learning process, and I intend to complete these as soon as I am able (hopefully by the day following the due date). 
-
-I hope that you will take this into consideration I will not suffer a penalty as it is not my intention to push these off till the last minute.
-
-Life gets in the way sometimes.
-
-Sincerely, 
-
-Reeve Jarvis
-
----
 
 #### **Activity 0202**
+
+>**Question:** Choose a mobile app (Android or iOS) that you use frequently. Pick one screen in the app and identify elements of the Model, View and Controller in that screen. In other words, list out all View elements (i.e. everything you can see on screen), all Model elements (i.e. all data relevant to that screen) and all Controller elements (i.e. all the possible interactions on that screen that may modify the Model or View).
+
+|Xbox|
+|---|
+|![Xbox App](photos/xbox.jpg)|
+||
+
+Keeping with my passion for video games, the app I have chosen to discuss is the Xbox app. I use this application frequently to assist in communicating with my friends on xbox, and keep track of my captures and achievements on the platform.
+
+The screen displayed above is the home screen of the application. It provides details regarding my notifications, recently played games, and currently active friends. Additionally, it gives the option to connect with your console over your network to initiate game streaming. This page requires a significant amount of data to be passed from the model to the controller, in order to display the view. 
+
+Model Components:
+
+* Recently played game data, with the option to initiate streaming to your phone
+* Data on notification messages
+* Data regarding your friends-list and active friends currently playing on the platform
+* Your friends current status(Whether it be online, busy, etc.)
+* Data indicating friendship designation (favourite or not)
+* What games your friends are currently playing
+* Data required to navigate to additional screens
+
+View:
+
+* The branding identity (logo in the top corner)
+* Icons indicating streaming and notifications up in the right corner
+* Game boxart and titles displayed in your recently played games
+* Heading string indicating the Active Friends section, and option to see more
+* Friends Gamertags, and profile pictures
+* Names of games that friends are playing 
+* Icons along the bottom forming the navigation menu to additional pages
+
+
+Controller:
+
+* Gathering data from the model concerning notifications when icon is tapped
+* Communicating with your console upon hitting the streaming icon
+* Displaying data from the model on game information, and content upon selecting a recently played game
+* Presenting Friends information when interacting with Active friends section
+* Navagating to different pages when interacting with the icon navigation menu at the bottom
+
 
 ---
 
