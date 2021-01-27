@@ -68,3 +68,13 @@ Reeve Jarvis
 ---
 
 #### **Activity 0203**
+
+>**Question:** Visit material.io and examine some aspects of Material Design. Scroll through the site and take a look at one page/article that interests you in more detail. Summarize what you learn from the article in your Process Portfolio.
+
+Browsing material.io provided me with some insight into some of the design concepts to consider when creating an attractive and usable UI. While exploring the information I came across an article regarding the importance of Shape in your designs, and decided to investigate further.
+
+The article discussed the many different ways that shape contributes to a design. It is easy to overlook just how important the proper use of shape can be. Shape can be used to direct attention, identify certain components, comunicate the state of different elements, and express a brand identity. By creating emphasis on certain elements on the screen, you can help guide the users attention to the important details. Additionally, shape can be used to categorize/organize the contents of the screen and maintain a certain level of usability. When working with interactive elements, you can also use shape to communicate the state of the object, such as when you are toggling options or selecting something on the screen. And finally, the use of shape can communicate the personality of a product which contributes to the brand identity and establishes a recognizable product.
+
+I found it very interesting to explore these ideas further, and it helped me gain a greater appreciation for the importance of every little detail working together to create an interface that is both attractive and productive. 
+
+
