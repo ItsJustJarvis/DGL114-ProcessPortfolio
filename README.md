@@ -12,7 +12,7 @@ One thing that I find frustrating with the apps interface is their inconsistent 
 
 Looking past the negatives stated above, there are still some positive aspects of the interface. The app provides multiple ways to filter which content you would like to view based on popularity, genre etc. It also allows you to track the articles you are interested in by providing a way to save them for later. Additionally there is the option to search for specific content (though this search function does not work the best).
 
-![IGN Screenshot](IGN.jpg) 
+![IGN Screenshot](photos/IGN.jpg) 
 
 #### **Good App: YouTube**
 
@@ -22,7 +22,7 @@ Being one of the first apps developed for smartphones, YouTube has had the time 
 
 Depending on your device and the amount of subscriptions you have, the interface can become a bit cluttered, but overall I would rate the YouTube app as "good".
 
-![YouTube Screenshot](Youtube.jpg)
+![YouTube Screenshot](photos/Youtube.jpg)
 
 ### **Activity 0102:**
 
