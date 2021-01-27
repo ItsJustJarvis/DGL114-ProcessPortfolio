@@ -5,9 +5,13 @@
 ---
 #### **Actitivity 0101:**
 
+>**Question:** Find one example of a mobile app that has an interface that you consider 'good', and one example of a mobile app that has an interface that you consider 'poor' (or, if not poor, at least 'difficult'). Take some screenshots that highlight the best and worst of each app and provide a short description in your Process Portfolio justifying your choices.
+
 I tend to only keep apps on my phone that I consider to be "good". If an app causes me more frustration then I deem acceptable I usually will delete it shortly after downloading. Saying that, there are always negative aspects to every app.
 
-**Poor App: IGN** 
+|Poor App: IGN|
+|---|
+|![IGN Screenshot](photos/IGN.jpg)| 
 
 One app that I have had some significant trouble with is the IGN app (shown below). This application has been updated quite regularily since I began using it, which at least shows a commitment to providing a better user experience. However, overall I would consider this app "poor" in terms of interface.
 
@@ -15,9 +19,9 @@ One thing that I find frustrating with the apps interface is their inconsistent 
 
 Looking past the negatives stated above, there are still some positive aspects of the interface. The app provides multiple ways to filter which content you would like to view based on popularity, genre etc. It also allows you to track the articles you are interested in by providing a way to save them for later. Additionally there is the option to search for specific content (though this search function does not work the best).
 
-![IGN Screenshot](photos/IGN.jpg) 
-
-**Good App: YouTube**
+|Good App: YouTube|
+|---|
+|![YouTube Screenshot](photos/Youtube.jpg)|
 
 YouTube is an app that I would consider "good". I use YouTube regularily, it is how I get my news, and updates on my hobbies and interests. It has come a long way since the original app on the iPhone all those years ago, though it is not without its faults.
 
@@ -25,11 +29,11 @@ Being one of the first apps developed for smartphones, YouTube has had the time 
 
 Depending on your device and the amount of subscriptions you have, the interface can become a bit cluttered, but overall I would rate the YouTube app as "good".
 
-![YouTube Screenshot](photos/Youtube.jpg)
-
 ---
 
 ### **Activity 0102:**
+
+>**Question:** Consider what it means for a mobile interface to be 'usable'. What types of things do you expect to find in an app that is considered 'intuitive'? Make a list of as many 'usable' and 'intuitive' elements as you can think of (Hint: Don't restrict yourself only to buttons and widgets!)
 
 In a world filled with smartphones/smart devices we have grown to expect a certain level of intuitive design in our products. People end up being the judge and jury on whether an app is "good" or "bad". In order for an app to be considered intuitive or usable I feel it should take the following into consideration:
 
@@ -53,7 +57,6 @@ In a world filled with smartphones/smart devices we have grown to expect a certa
 |Xbox|
 |---|
 |![Xbox App](photos/xbox.jpg)|
-||
 
 Keeping with my passion for video games, the app I have chosen to discuss is the Xbox app. I use this application frequently to assist in communicating with my friends on xbox, and keep track of my captures and achievements on the platform.
 
