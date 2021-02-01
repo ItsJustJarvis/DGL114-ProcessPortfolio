@@ -2,9 +2,11 @@
 
 ## Author: Reeve Jarvis
 <br/>
+
 ---
 ### **Week 1 Activities**
 ---
+
 <br/>
 
 #### **Actitivity 0101:**
