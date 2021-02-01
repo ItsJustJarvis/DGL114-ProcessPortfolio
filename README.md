@@ -1,11 +1,19 @@
 # DGL114 - Process Portfolio
-## Author: Reeve Jarvis 
+
+## Author: Reeve Jarvis
+<br/>
 ---
 ### **Week 1 Activities**
 ---
+<br/>
+
 #### **Actitivity 0101:**
 
+<br/>
+
 >**Question:** Find one example of a mobile app that has an interface that you consider 'good', and one example of a mobile app that has an interface that you consider 'poor' (or, if not poor, at least 'difficult'). Take some screenshots that highlight the best and worst of each app and provide a short description in your Process Portfolio justifying your choices.
+
+<br/>
 
 I tend to only keep apps on my phone that I consider to be "good". If an app causes me more frustration then I deem acceptable I usually will delete it shortly after downloading. Saying that, there are always negative aspects to every app.
 
@@ -19,9 +27,13 @@ One thing that I find frustrating with the apps interface is their inconsistent 
 
 Looking past the negatives stated above, there are still some positive aspects of the interface. The app provides multiple ways to filter which content you would like to view based on popularity, genre etc. It also allows you to track the articles you are interested in by providing a way to save them for later. Additionally there is the option to search for specific content (though this search function does not work the best).
 
+<br/>
+
 |Good App: YouTube|
 |---|
 |![YouTube Screenshot](photos/Youtube.jpg)|
+
+<br/>
 
 YouTube is an app that I would consider "good". I use YouTube regularily, it is how I get my news, and updates on my hobbies and interests. It has come a long way since the original app on the iPhone all those years ago, though it is not without its faults.
 
@@ -30,8 +42,11 @@ Being one of the first apps developed for smartphones, YouTube has had the time 
 Depending on your device and the amount of subscriptions you have, the interface can become a bit cluttered, but overall I would rate the YouTube app as "good".
 
 ---
+<br/>
 
-### **Activity 0102:**
+#### **Activity 0102:**
+
+<br/>
 
 >**Question:** Consider what it means for a mobile interface to be 'usable'. What types of things do you expect to find in an app that is considered 'intuitive'? Make a list of as many 'usable' and 'intuitive' elements as you can think of (Hint: Don't restrict yourself only to buttons and widgets!)
 
@@ -46,17 +61,27 @@ In a world filled with smartphones/smart devices we have grown to expect a certa
 * Auto fill data needed for forms etc.
 * Ensuring buttons and actions operate as intended (dead links suck)
 
+<br/>
+
 ---
 ### **Week 2 Activities**
 ---
 
-#### **Activity 0202**
+<br/>
+
+#### **Activity 0202:**
+
+<br/>
 
 >**Question:** Choose a mobile app (Android or iOS) that you use frequently. Pick one screen in the app and identify elements of the Model, View and Controller in that screen. In other words, list out all View elements (i.e. everything you can see on screen), all Model elements (i.e. all data relevant to that screen) and all Controller elements (i.e. all the possible interactions on that screen that may modify the Model or View).
+
+<br/>
 
 |Xbox|
 |---|
 |![Xbox App](photos/xbox.jpg)|
+
+<br/>
 
 Keeping with my passion for video games, the app I have chosen to discuss is the Xbox app. I use this application frequently to assist in communicating with my friends on xbox, and keep track of my captures and achievements on the platform.
 
@@ -94,9 +119,15 @@ Controller:
 
 ---
 
+<br/>
+
 #### **Activity 0203**
 
+<br/>
+
 >**Question:** Visit material.io and examine some aspects of Material Design. Scroll through the site and take a look at one page/article that interests you in more detail. Summarize what you learn from the article in your Process Portfolio.
+
+<br/>
 
 Browsing material.io provided me with some insight into some of the design concepts to consider when creating an attractive and usable UI. While exploring the information I came across an article regarding the importance of Shape in your designs, and decided to investigate further.
 
@@ -104,4 +135,90 @@ The article discussed the many different ways that shape contributes to a design
 
 I found it very interesting to explore these ideas further, and it helped me gain a greater appreciation for the importance of every little detail working together to create an interface that is both attractive and productive. 
 
+<br/>
 
+---
+### **Week 3 Activities**
+---
+
+<br/>
+
+#### **Activity 0301**
+
+<br/>
+
+>**Question:**  Choose a mobile app (Android or iOS) that you use frequently. Do your best to identify all the activities (or 'screens') in the app and write them down in your Process Portfolio. See if you can come up with some meaningful way to categorize all screens. (Note that some screens in some apps may have tabs and menus, etc. I'm looking here just for the screens themselves - so any time there is a clear full screen change in the app. Additionally, note that in iOS we do not refer to these as 'activities', but more commonly as 'views'. For the purposes of this activity the distinction is not too important).
+
+<br/>
+
+**App in Focus:** IGN
+
+Browsing through the IGN app, I have identified the following activities...
+
+**Activities:**
+
+* Home - The initial screen presented upon launching the app (Though you can change which screen to display in your settings)
+
+* Reviews - A screen dedicated to content regarding tech/media reviews.
+
+* Saved - A screen with content you have marked/saved for later viewing
+
+* Game Help -  A screen dedicated to game help wikis
+
+* Search - A screen displayed when interacting with the search function
+
+* Profile/Settings - Your profile/account information as well as application settings
+
+One way that I might be able to categorize these activities is by their use cases/purpose such as Administrative, content, and Interactive elements.
+
+|Administrative|Content|Interactive|
+|---|---|---|
+|Profile|Home|Search|
+||Reviews|Saved|
+||Game Help||
+
+<br/>
+
+Or purhaps in simpler terms of Individual vs. Global information as some screens apply to only the user, and others are constant amongst all users.
+
+|Global|Individual|
+|---|---|
+|Home|Profile|
+|Reviews|Saved|
+|Game Help|Search|
+
+---
+
+<br/>
+
+#### **Activity 0302**
+
+<br/>
+
+>**Question:** Choose a mobile app (Android or iOS) that you use frequently and consider some of the more common Android event types are discussed in chapter 3.1 of the textbook. Which of these events does your app use? List a few different instances for each event in your app. Can you think of other events that your app might use that are not discussed in chapter 3.1? 
+
+<br/>
+
+**App in Focus:** IGN
+
+When inspecting the IGN app for event types we discussed in this chapter of the book I was only able to identify two of note. The onClick(), and onTouch() events. The aplications user interface is quite basic and only really responds to either clicking on links/buttons/images, or touching and swiping through certain levels of content. 
+
+**Examples of onClick():**
+
+* Clicking on an article to open it
+* Clicking the save button icon to add to your saved activity
+* Clicking setting buttons to adjust their values
+* Clicking the search to perform a search through the content
+* Clicking on navigation menu items to browse other activities
+
+**Examples of onTouch():**
+
+* Performing slide gestures to navigate through activity screens
+* Performing slide gestures to navigate through horizontal scrolling areas
+* Performing slide gestures to scroll through the content of each activity screen
+
+**Alternative System Events:**
+
+* There is the option to adjust your location preference in the settings which could trigger a system event with location services maybe? 
+
+---
