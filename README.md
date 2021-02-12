@@ -239,12 +239,44 @@ When inspecting the IGN app for event types we discussed in this chapter of the 
 
 <br/>
 
-Due to Assignments and other life responsibilities I will be completeing these one day late.
-
 #### **Activity 0401**
 
-<br/>
-
-#### **Activity 0402**
+> **Question:** Choose a mobile app (Android or iOS) that you use frequently. Characterize the app's navigational model by examining how the user traverses through different activities (i.e. 'screens') in the app. Is the navigational model flat? (Meaning all activities have the same level of importance, perhaps each activity is accessible by swiping left or right?) Is there a hierarchical relationship between activities? (Meaning, is there a central, or main screen from which all other activities are accessed?) Discuss your findings in your Process Portfolio.
 
 <br/>
+
+**App in Focus:** Google Maps
+
+| Google Maps                           |
+| ------------------------------------- |
+| ![Google Maps](photos/googlemaps.jpg) |
+
+I use google maps daily to plan the fastest routes when travelling, or going on a bike ride. Upon inspecting the application, I would clasify the navigational model as flat. Each activity has the same level of importance. The map screen is the initital activity launched when opening the app, though it holds no hierarchical dominance over the alternate activities. All activity screens accessible within the app can be opened using the navigation menu along the bottom of the screen. There are no hierarchical relationships as navigation is freely handled through this menu.
+
+---
+
+<br/>
+
+#### **Activity 0403**
+
+> **Question:** After reading chapter 4.5 - App Bar visit material.io and read the article App bars: Bottom. After reading the article summarize the differences between the use of top and bottom app bars in your Process Portfolio.
+
+<br/>
+
+Browsing the material.io article regarding app bars, I learned alot about their proper implementation and certain things to avoid.
+
+Bottom Bars:
+
+- Only use if the app doesnt have a bottom navigation menu
+- Should only be used on screens with two to five actions
+- Should disappear/appear during scrolling
+- Should be overlaped with on screen elements such as the keyboard
+- Should not contain navigation
+- Overlapping or inset FAB
+
+Top Bars:
+
+- Pair with bottom bars to create a good range of options
+- Maintain consistent search location
+- Contain overflow menu with additional options
+- Destructive operations such as delete
