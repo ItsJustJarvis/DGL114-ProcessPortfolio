@@ -280,3 +280,36 @@ Top Bars:
 - Maintain consistent search location
 - Contain overflow menu with additional options
 - Destructive operations such as delete
+
+---
+
+### **Week 5 Activities**
+
+---
+
+<br/>
+
+#### **Activity 0501**
+
+> **Question:** Choose a mobile app (Android or iOS) that you use frequently. For this activity you will characterize the app's navigational model (similar to activity 0401), but in this case you will draw a diagrammatic representation of the navigation. You may use the same app chosen for activity 0401. Include an image of your drawing in your Process Portfolio and briefly describe what you have learned from this activity.
+
+![Navigation Diagram](photos/navigation.jpg)
+
+As shown in the above diagram, the navigation model of the Google Maps app is a flat navigation structure. There is no dominant hierarchy and each activity screen has the same level of importance. The nav bar is directly accessible along the bottom of each activity screen and you can traverse through them all from whichever screen you are on.
+
+---
+
+<br/>
+
+#### **Activity 0503**
+
+> **Question:** After reading chapter 5.3 -Dialogs visit material.ioand read the articleDialogs. As you read carefully consider when the use of dialogs is appropriate. Summarize your findings in your Process Portfolio.
+
+After reading chapter 5.3, and browing the dialogs article on material.io I have learned some useful information pertaining to the use of dialogs. Dialogs are alert windows that are produced as a result of some event taking place such as a new activity produced or interaction taking place. They relay important information, and even sometimes prompt for user input. These are used as messengers to inform users of changes or information, and must be dismissed before continuing.
+
+The only time you should use dialogs is:
+
+- When a critical error occurs that halts normal program execution
+- To display important information to the user that either requires acknowledgement or some other form of decision/task
+
+Due to their disruptive behaviour you should always use Dialogs sparingly, and only in moments of need. Using dialogs too frequently can cause your app to become much less desireable to its users. Additionally you should always ensure to provide a clear presentation of what actions the user can take with the dialog, whether it be dismissive, confirmation, or just informative.
