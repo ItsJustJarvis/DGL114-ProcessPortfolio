@@ -360,6 +360,8 @@ When considering the To Do List app, after reading the Material.io article, I ca
 
 ### **Week 9 Activities**
 
+Appologies for the lateness, however I will not have these activities uploaded until Wednesday March 17th!
+
 ---
 
 <br/>
