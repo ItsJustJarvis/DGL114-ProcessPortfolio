@@ -6,6 +6,10 @@
 
 ---
 
+## **Part 1:**
+
+---
+
 ### **Week 1 Activities**
 
 ---
@@ -313,3 +317,65 @@ The only time you should use dialogs is:
 - To display important information to the user that either requires acknowledgement or some other form of decision/task
 
 Due to their disruptive behaviour you should always use Dialogs sparingly, and only in moments of need. Using dialogs too frequently can cause your app to become much less desireable to its users. Additionally you should always ensure to provide a clear presentation of what actions the user can take with the dialog, whether it be dismissive, confirmation, or just informative.
+
+---
+
+## **Part 2:**
+
+---
+
+### **Week 8 Activities**
+
+---
+
+<br/>
+
+#### **Actitivity 0802:**
+
+<br/>
+
+> **Question:** To-Do List uses app-specific storage to store a text file made up of all to-do list items. Now imagine a more 'advanced' version of To-Do List and using the data storage strategies presented in section 6.1 as a guide, list other types of data that the 'advanced' To-Do List might store. Make sure to identify at least one type of data per strategy.
+
+An advanced To Do List app could make use of the following data storing strategies to improve the functionality of the app:
+
+* Shared Preferences - Perhaps there could be stored preferences for the user regarding visual presentation (themes, colours, fonts, bullet styles).
+* App-specific files - Maybe the To DO List app uses profiles and stores the app specific profile to the internal storage, including avatar photos etc.
+* Shared storage - Maybe the To Do List app can store images of the lists that can in turn be used within other apps such as your calendar or email app. 
+* Database - Use a database to track the date that a list was entered and store it in a database organized in order for later viewing.
+* Cloud - You could mark your notes for update into the cloud to be shared across different devices, or make certain lists private and accessible through your profile
+
+---
+
+<br/>
+
+#### **Actitivity 0803:**
+
+<br/>
+
+> **Question:** After reading chapter 6 visit  material.io and read the article Lists. Consider the list in the To-Do List app. Does it meet the expectations of Material Design? Summarize your findings on your process portfolio.
+
+When considering the To Do List app, after reading the Material.io article, I can definitely identify some room for improvement. The current layout of the to do list does not have much in terms of organization and separation of data. The list items could definitely be separated better, and have some more dividing lines. This is particularly a problem when it comes to multi-lined list items. Additionally, I feel like it could benefit from further information being added. One other thing I'd like to point out is the visual presentation of the list items. There is a lack of hierarchy in the list items between their indicating number and the text content itself.
+
+---
+
+### **Week 9 Activities**
+
+---
+
+<br/>
+
+#### **Actitivity 0902:**
+
+<br/>
+
+> **Question:**
+
+---
+
+<br/>
+
+#### **Actitivity 0903:**
+
+<br/>
+
+> **Question:**
