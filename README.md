@@ -338,11 +338,11 @@ Due to their disruptive behaviour you should always use Dialogs sparingly, and o
 
 An advanced To Do List app could make use of the following data storing strategies to improve the functionality of the app:
 
-* Shared Preferences - Perhaps there could be stored preferences for the user regarding visual presentation (themes, colours, fonts, bullet styles).
-* App-specific files - Maybe the To DO List app uses profiles and stores the app specific profile to the internal storage, including avatar photos etc.
-* Shared storage - Maybe the To Do List app can store images of the lists that can in turn be used within other apps such as your calendar or email app. 
-* Database - Use a database to track the date that a list was entered and store it in a database organized in order for later viewing.
-* Cloud - You could mark your notes for update into the cloud to be shared across different devices, or make certain lists private and accessible through your profile
+- Shared Preferences - Perhaps there could be stored preferences for the user regarding visual presentation (themes, colours, fonts, bullet styles).
+- App-specific files - Maybe the To DO List app uses profiles and stores the app specific profile to the internal storage, including avatar photos etc.
+- Shared storage - Maybe the To Do List app can store images of the lists that can in turn be used within other apps such as your calendar or email app.
+- Database - Use a database to track the date that a list was entered and store it in a database organized in order for later viewing.
+- Cloud - You could mark your notes for update into the cloud to be shared across different devices, or make certain lists private and accessible through your profile
 
 ---
 
@@ -352,7 +352,7 @@ An advanced To Do List app could make use of the following data storing strategi
 
 <br/>
 
-> **Question:** After reading chapter 6 visit  material.io and read the article Lists. Consider the list in the To-Do List app. Does it meet the expectations of Material Design? Summarize your findings on your process portfolio.
+> **Question:** After reading chapter 6 visit material.io and read the article Lists. Consider the list in the To-Do List app. Does it meet the expectations of Material Design? Summarize your findings on your process portfolio.
 
 When considering the To Do List app, after reading the Material.io article, I can definitely identify some room for improvement. The current layout of the to do list does not have much in terms of organization and separation of data. The list items could definitely be separated better, and have some more dividing lines. This is particularly a problem when it comes to multi-lined list items. Additionally, I feel like it could benefit from further information being added. One other thing I'd like to point out is the visual presentation of the list items. There is a lack of hierarchy in the list items between their indicating number and the text content itself.
 
@@ -366,11 +366,19 @@ Appologies for the lateness, however I will not have these activities uploaded u
 
 <br/>
 
-#### **Actitivity 0902:**
+#### **Actitivity 0901:**
 
 <br/>
 
-> **Question:**
+> **Question:** After reading section 7.2 in the text (and implementing all related code) take a read through the article Save data in a local database using Room on Android Developers. Based on your understanding developed in the textbook and from the Android Developers article, write a paragraph or two on your process portfolio summarizing your understanding of Room, its main components and how they relate to one another.
+
+Room is used to simplify the implementation of SQLite and the use of relational databases within your application. It allows you to set up a database, and by using annotations create methods to interact with the database just as you would in SQL statements for queries such as SELECT, INSERT, UPDATE and DELETE. It greatly reduces the code required to implement this strategy. Room uses three main components:
+
+- Database Class - This class holds the database itself, and provides access to it. It serves as the connection to the persistent data within your database.
+- Data Entities - These represent the tables within your relational database.
+- DOA (Data Access Objects) - These object provide methods to access the database using SQL queries such as SELECT, INSERT, UPDATE, DELETE.
+
+Within your Data Entities, each instance represents a new row within the table. You can use annotations to designate the column names and set primary keys as necessary. Within the DOA interface, you can declare the methods required to access the entity data within your tables using SQL logic. @QUERY Annotations require the declaration of SELECT statements while others such as @INSERT, or @DELETE do not. And finally within your Database Class you define the configuration of your database and list the entities that it pertains to.
 
 ---
 
@@ -380,4 +388,14 @@ Appologies for the lateness, however I will not have these activities uploaded u
 
 <br/>
 
-> **Question:**
+> **Question:** Visit material.io and read the article Cards (make sure you have the Design tab - and not the Implementation tab - selected). Consider the cards used in the Study Helper app: How could they be improved, based on the recommendations in the Cards article? Summarize your thoughts on your process portfolio.
+
+After reading the article regarding Cards, and reviewing the current implementation within the Study Helper App I do see room for improvement. Saying that, for this simple app and its particular use, I'm not sure that more intricate cards are entirely necessary. They simply need to display a general topic of study and do not need anything fancy to serve their purpose. However, if I were to adjust them I would:
+
+- Add icons and other design elements regarding the theme of the subject to increase the overall appearance and attractiveness
+- Perhaps the cards could have an additional action button that could designate the difficulty level of the questions within
+- Add a favourites button to add the subject card to your favourite selection
+
+Overall some minor design changes could increase their individuality and provide a more aesthetic experience, though I do not feel it necessary.
+
+---
