@@ -360,8 +360,6 @@ When considering the To Do List app, after reading the Material.io article, I ca
 
 ### **Week 9 Activities**
 
-Appologies for the lateness, however I will not have these activities uploaded until Wednesday March 17th!
-
 ---
 
 <br/>
@@ -399,3 +397,35 @@ After reading the article regarding Cards, and reviewing the current implementat
 Overall some minor design changes could increase their individuality and provide a more aesthetic experience, though I do not feel it necessary.
 
 ---
+
+### **Week 10 Activities**
+
+---
+
+<br/>
+
+#### **Actitivity 1001:**
+
+<br/>
+
+> **Question:** After reading sections 8.1 and 8.2 consider the types of tasks in an app that would necessarily be asynchronous (this may also require considering a particular type of app). Create a list of at least 10 asynchronous tasks that you might typically expect to see in a wide variety of apps - do some research if necessary. Write your list and summarize your findings on your process portfolio.
+
+
+
+
+
+---
+
+<br/>
+
+#### **Actitivity 1003:**
+
+<br/>
+
+> **Question:** Visit material.io and read the article Android notifications (focus on the first three sections: Usage, Anatomy of a notification and Behavior). Summarize the most important practices and considerations relating to notifications on your process portfolio.
+
+
+
+
+
+--- 
