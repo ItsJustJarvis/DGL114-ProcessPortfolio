@@ -410,9 +410,18 @@ Overall some minor design changes could increase their individuality and provide
 
 > **Question:** After reading sections 8.1 and 8.2 consider the types of tasks in an app that would necessarily be asynchronous (this may also require considering a particular type of app). Create a list of at least 10 asynchronous tasks that you might typically expect to see in a wide variety of apps - do some research if necessary. Write your list and summarize your findings on your process portfolio.
 
+AsyncTask can be implemented to free up the main thread from long running tasks. This helps reduce any negative effects occuring on the UI presentation such as slowed responsiveness or view updates, and keeps things appearing consistently. There are many different tasks within an app that you could expect to use this approach such as:
 
-
-
+* Downloading small files - downloading on the main thread can cause normal execution to come to a full stop until complete
+* Uploading small files - similarly to downloading, uploading files on the main thread can slow things down until completion
+* Gathering data - accessing data from a database to display and use
+* Complex Calculations - performing long-running calculations
+* Location updates - updating location to be used in map applications
+* Timing - updating clocks/timers
+* Newsfeed Updates - gathering social media newsfeed information and updating with most recent posts
+* Message sending/receiving - sending messages while performing other tasks
+* Tracking scores - calculating and tracking running scores for games/etc
+* Browser background processes - performing background processes in a browser
 
 ---
 
@@ -423,6 +432,36 @@ Overall some minor design changes could increase their individuality and provide
 <br/>
 
 > **Question:** Visit material.io and read the article Android notifications (focus on the first three sections: Usage, Anatomy of a notification and Behavior). Summarize the most important practices and considerations relating to notifications on your process portfolio.
+
+When it comes to presenting Android Notifications, there are many things to consider:
+
+> Usages - the different use cases have grown over the years and notifications can be presented in many ways
+
+* Status Bar/Notification Drawer - these are display as icons within the top status bar on the screen, and can be fully accessed by pulling down from the top of the screen to display the notification Drawer. From inside you can click to open the app that produced the notification or slide to remove it.
+* Heads Up - these are displayed as temporary pop-ups on the screen while unlocked, and are typically used for important notifications that the user should see immediately.
+* Lock Screen - these are displayed while your phone is locked and their level of complexity can be set by the user to hide information while locked or display them freely.
+* App Icon Badge - these are shown on the app icon itself to indicate there is a notification. Users can access more details with a long-press.
+* Wearables - notifcations can be mirrored to new wearable devices (smartwatches).
+
+> Anatomy - The anatomy of notifications is largely determined by the system templates of the device, the app only determines the contents. Typical anatomy includes:
+
+* Small icon - A small icon reflecting the app that presented it
+* App Name -  The name of the app producing the notification
+* Time Stamp -  The time it was registered
+Optional:
+* Large Icon -  Typically only used for contact photos
+* Title - Can be used to display who sent you a message etc.
+* Text - Can show a preview of message contents
+
+> Behaviour - Typically, tapping a notification is expected to open the app that produced it. There is also the option to add additional behaviour such as:
+
+* Action Buttons - For example replying to a text notification, or archiving an email
+* Expandability - Expanding a notification to view the entire details such as the full message you received
+* Updated in Place - Rather than sending multiple notifications you can update the one already present
+* Grouping - multiple notifications can be grouped together if from the same application
+
+Additionally user preferences can be used to establish notification importance levels on an app by app basis, as well as initiate a do not disturb state where no notifications are produced until after a designated time or the user turns this off.
+
 
 
 
