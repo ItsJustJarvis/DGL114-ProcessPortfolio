@@ -474,7 +474,17 @@ Additionally user preferences can be used to establish notification importance l
 
 <br/>
 
-> **Question:**
+> **Question:** Chapter 9 presents a variety of animation types for various purposes. Use a table on your process portfolio to enumerate all animation types presented and to briefly describe each.
+
+There are two different types of animation avaiable Frame-By-Frame and Tween. Frame-By-Frame produces an animation using multiple images in sequence to create the illusion of movment. Tween animations perform different transformation on objects to simulate rotating, moving, growing or shrinking. However there are different ways to produce these animations. The table below lists these by name, designates which type they typically work with, and provides a brief description.
+
+**Animation Types**
+
+| Name                | Type           | Description                                                                                                               |
+| ------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Animation Drawable  | Frame-By-Frame | Uses AnimationDrawable class to present a series of frames outlined within an XML document                                |
+| View Animations     | Tween          | Uses classes from the android.view.animation package to create an animation on a View Object                              |
+| Property Animations | Tween          | Uses the android.animation package and adds the ability to change the View objects properties over a fixed length of time |
 
 ---
 
@@ -484,4 +494,14 @@ Additionally user preferences can be used to establish notification importance l
 
 <br/>
 
-> **Question:**
+> **Question:** Visit material.io and read the article Understanding motion. Additionally, check out any related articles that you find interesting. What have you learned about the principles of designing for motion in smartphone apps? Summarize your thoughts on your process portfolio.
+
+There are many different ways to use motion to your advantage in smartphone apps. Motion can be used to inform the user, focus the user's attention, and express a certain style. It also plays an important role in maintaining the heirarchy of the elements. In more detail:
+
+**Inform:** Motion can be used effectively to inform the user of possible relationships present on screen. Additionally motion can inform the user of available actions, and the possible outcomes of those actions.
+
+**Focus:** Motion can be used to draw the user's attention to an area of importance. Motion can be used to ensure the user's eye is drawn to an element that requires attention or works in tandem with the principle of Inform to keep them... well... informed.
+
+**Express:** Motion can be used to express key moments in user interaction. It can be a useful tool in presenting important milestones, add character to basic interactions, and help to communicate the overall Brand or Style of the app. It can also provide informative feedback.
+
+**Hierarchy:** Motion can help the user understand the relationships between elements and communicate the balance of power for the elements on the page.
